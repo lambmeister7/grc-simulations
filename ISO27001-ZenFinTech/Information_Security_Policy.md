@@ -100,7 +100,7 @@ Violations of this policy may lead to disciplinary action, up to and including t
 
 ## 12. Related Documents
 
-- Statement of Applicability (SoA)
+- Statement of Applicability (SoA) (ISO27001-ZenFinTech/Statement_of_Applicability.md)
 - Risk Register
 - Internal Audit Plan
 - GDPR Privacy Policy
